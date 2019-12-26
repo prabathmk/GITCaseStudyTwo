@@ -1,1 +1,2 @@
 git feature branch file one
+Added new line for conflict
